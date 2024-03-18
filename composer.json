@@ -1,0 +1,18 @@
+{
+    "name": "luscio/laravel-filesystem-oss",
+    "autoload": {
+        "psr-4": {
+            "Luscio\\LaravelFilesystem\\Oss\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "luscio",
+            "email": "luscio3366@gmail.com"
+        }
+    ],
+    "require": {
+        "iidestiny/flysystem-oss": "^4.3",
+        "laravel/framework": "^9.0|^10.0|^11.0"
+    }
+}
