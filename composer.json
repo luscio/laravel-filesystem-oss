@@ -1,5 +1,7 @@
 {
     "name": "luscio/laravel-filesystem-oss",
+    "description": "A Oss storage filesystem for Laravel.",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Luscio\\LaravelFilesystem\\Oss\\": "src/"
