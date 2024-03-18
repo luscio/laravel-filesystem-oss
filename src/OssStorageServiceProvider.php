@@ -1,6 +1,5 @@
 <?php
 
-
 namespace Luscio\LaravelFilesystem\Oss;
 
 use Iidestiny\Flysystem\Oss\OssAdapter;
@@ -34,7 +33,5 @@ class OssStorageServiceProvider extends ServiceProvider
     /**
      * Register any application services.
      */
-    public function register()
-    {
-    }
+    public function register() {}
 }
